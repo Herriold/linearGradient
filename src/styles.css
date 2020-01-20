@@ -1,0 +1,19 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.test {
+  stop-color: #f00b3f;
+  stop-opacity: 0.3;
+}
+
+.test2 {
+  stop-color: #f00b3f;
+  stop-opacity: 0;
+}
+
+.test3 {
+  fill: url(#linearGradient);
+  stroke: #f00b3f;
+}

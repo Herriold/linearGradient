@@ -1,2 +1,0 @@
-# linearGradient
-Created with CodeSandbox
